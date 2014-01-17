@@ -1,0 +1,27 @@
+{
+  "name": "resize-logic",
+  "description": "Determines the correct dimensions for resizing and cropping images, without being attached to any particular tool",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/resize-logic"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/resize-logic/issues"
+  },
+  "homepage": "https://github.com/hughsk/resize-logic",
+  "keywords": [
+    "resize",
+    "image",
+    "agnostic"
+  ]
+}
